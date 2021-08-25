@@ -1,0 +1,22 @@
+{"spritesArray":
+	{
+	"tubesArray": 
+		[
+		{"tube_X":329,"tube_y":440},
+		{"tube_X":481,"tube_y":349},
+		{"tube_X":656,"tube_y":470},
+		{"tube_X":721,"tube_y":289},
+		{"tube_X":1116,"tube_y":382},
+		{"tube_X":1251,"tube_y":551},
+		{"tube_X":1396,"tube_y":316},
+		{"tube_X":1885,"tube_y":562},
+		{"tube_X":1989,"tube_y":404}
+		],
+	"goombaArray":
+		[
+		{"goomba_X":800, "goomba_Y": 500},
+		{"goomba_X":1500, "goomba_Y": 500},
+		{"goomba_X":2100, "goomba_Y": 500}
+		]
+	}
+}
